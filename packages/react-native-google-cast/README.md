@@ -8,6 +8,7 @@ Ensure you use versions that work together!
 
 | `expo` | `react-native-google-cast` | `@config-plugins/react-native-google-cast` |
 | ------ | -------------------------- | ------------------------------------------ |
+| 52.0.0 | 4.8.3                      | 9.0.0                                      |
 | 51.0.0 | 4.8.0                      | 8.0.0                                      |
 | 50.0.0 | 4.6.2                      | 7.0.0                                      |
 | 49.0.0 | 4.6.2                      | 6.0.0                                      |
@@ -40,7 +41,7 @@ The plugin provides props for extra customization. Every time you change the pro
 - `androidReceiverAppId` (_string_): unknown.
 - `androidPlayServicesCastFrameworkVersion` (_string_): Version for the gradle package. Default `+`
 
-#### Example
+### Example
 
 ```json
 {
